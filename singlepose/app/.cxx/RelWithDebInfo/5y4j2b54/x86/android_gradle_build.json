@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/nanxinyu/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/RelWithDebInfo/5y4j2b54/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/nanxinyu/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/RelWithDebInfo/5y4j2b54/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ncnnbodypose-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "/home/nanxinyu/Android/Sdk/cmake/3.22.1/bin/ninja",
+        "-C",
+        "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/RelWithDebInfo/5y4j2b54/x86",
+        "ncnnbodypose"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "ncnnbodypose",
+      "output": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/cxx/RelWithDebInfo/5y4j2b54/obj/x86/libncnnbodypose.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

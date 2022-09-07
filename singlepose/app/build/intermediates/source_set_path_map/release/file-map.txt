@@ -1,0 +1,8 @@
+com.tencent.ncnnbodypose.app-pngs-0 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/generated/res/pngs/release
+com.tencent.ncnnbodypose.app-resValues-1 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/generated/res/resValues/release
+com.tencent.ncnnbodypose.app-rs-2 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/generated/res/rs/release
+com.tencent.ncnnbodypose.app-mergeReleaseResources-3 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tencent.ncnnbodypose.app-mergeReleaseResources-4 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tencent.ncnnbodypose.app-merged_res-5 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/merged_res/release
+com.tencent.ncnnbodypose.app-main-6 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/res
+com.tencent.ncnnbodypose.app-release-7 /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/release/res

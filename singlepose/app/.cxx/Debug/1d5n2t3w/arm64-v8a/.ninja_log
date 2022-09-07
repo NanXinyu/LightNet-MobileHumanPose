@@ -1,0 +1,4 @@
+# ninja log v5
+1	6039	1661046191143740633	CMakeFiles/ncnnbodypose.dir/ndkcamera.cpp.o	6fcbc376b8f11c24
+1	6181	1661046191283744746	CMakeFiles/ncnnbodypose.dir/nanodet.cpp.o	1d8ec6329cf15407
+0	6226	1661046191331746157	CMakeFiles/ncnnbodypose.dir/nanodetncnn.cpp.o	7a77132c52e0349a

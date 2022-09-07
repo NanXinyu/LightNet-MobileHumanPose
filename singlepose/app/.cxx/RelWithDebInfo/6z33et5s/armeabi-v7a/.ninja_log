@@ -1,0 +1,21 @@
+# ninja log v5
+0	885	1661060521035558348	CMakeFiles/ncnnbodypose.dir/ndkcamera.cpp.o	af4cf45ad7ee8bb4
+0	897	1661060521047557623	CMakeFiles/ncnnbodypose.dir/nanodetncnn.cpp.o	51eeae3b07e976e7
+0	1112	1661060521263544572	CMakeFiles/ncnnbodypose.dir/nanodet.cpp.o	817569b3ce7d2a25
+1112	1257	1661060521399536355	/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/cxx/RelWithDebInfo/6z33et5s/obj/armeabi-v7a/libncnnbodypose.so	da395250d4e87db3
+1	969	1661169365968189865	CMakeFiles/ncnnbodypose.dir/nanodetncnn.cpp.o	51eeae3b07e976e7
+1	1182	1661169366184187844	CMakeFiles/ncnnbodypose.dir/nanodet.cpp.o	817569b3ce7d2a25
+1182	1409	1661169366400185824	/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/cxx/RelWithDebInfo/6z33et5s/obj/armeabi-v7a/libncnnbodypose.so	da395250d4e87db3
+0	6	0	clean	9f578d0cf6ad3505
+0	5	0	clean	9f578d0cf6ad3505
+1	845	1661218949337265978	CMakeFiles/ncnnbodypose.dir/ndkcamera.cpp.o	af4cf45ad7ee8bb4
+1	868	1661218949357262993	CMakeFiles/ncnnbodypose.dir/nanodetncnn.cpp.o	51eeae3b07e976e7
+1	1004	1661218949493242690	CMakeFiles/ncnnbodypose.dir/nanodet.cpp.o	817569b3ce7d2a25
+1004	1119	1661218949601226568	/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/cxx/RelWithDebInfo/6z33et5s/obj/armeabi-v7a/libncnnbodypose.so	da395250d4e87db3
+1	975	1661494710104852855	CMakeFiles/ncnnbodypose.dir/MobileHumanPose.cpp.o	91b30a1ae4d90299
+1	1116	1661494710240877112	CMakeFiles/ncnnbodypose.dir/nanodetncnn.cpp.o	51eeae3b07e976e7
+1	1503	1661494710628946312	CMakeFiles/ncnnbodypose.dir/nanodet.cpp.o	817569b3ce7d2a25
+1503	1682	1661494710796976276	/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/cxx/RelWithDebInfo/6z33et5s/obj/armeabi-v7a/libncnnbodypose.so	c0d53b27fc47208b
+3	984	1661497705685241622	CMakeFiles/ncnnbodypose.dir/nanodetncnn.cpp.o	51eeae3b07e976e7
+1	1006	1661497705709242120	CMakeFiles/ncnnbodypose.dir/MobileHumanPose.cpp.o	91b30a1ae4d90299
+1006	1125	1661497705813244275	/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/cxx/RelWithDebInfo/6z33et5s/obj/armeabi-v7a/libncnnbodypose.so	c0d53b27fc47208b

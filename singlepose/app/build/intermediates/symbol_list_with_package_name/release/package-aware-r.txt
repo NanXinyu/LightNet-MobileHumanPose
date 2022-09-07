@@ -1,0 +1,11 @@
+com.tencent.ncnnbodypose
+array cpugpu_array
+array model_array
+array model_mobilehumanpose_array
+id buttonSwitchCamera
+id cameraview
+id spinner
+id spinnerCPUGPU
+id spinnerModel
+layout main
+string app_name

@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nanxinyu/Android/Sdk/daemon/7.3.3/com.tencent.ncnnbodypose.app-mergeReleaseResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "7,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "240,106,55",
+                        "endLines": "10,6,2",
+                        "endColumns": "19,19,50",
+                        "endOffsets": "344,235,101"
+                    },
+                    "to": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,298",
+                        "endLines": "5,9,10",
+                        "endColumns": "19,19,50",
+                        "endOffsets": "159,293,344"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.ncnnbodypose.app-mergeReleaseResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,7,-1",
+                        "startColumns": "-1,-1,4,-1",
+                        "startOffsets": "-1,-1,240,-1",
+                        "endLines": "-1,-1,9,-1",
+                        "endColumns": "-1,-1,19,-1",
+                        "endOffsets": "-1,-1,349,-1"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,164,298,412",
+                        "endLines": "5,9,12,13",
+                        "endColumns": "19,19,19,50",
+                        "endOffsets": "159,293,407,458"
+                    }
+                }
+            ]
+        }
+    ]
+}

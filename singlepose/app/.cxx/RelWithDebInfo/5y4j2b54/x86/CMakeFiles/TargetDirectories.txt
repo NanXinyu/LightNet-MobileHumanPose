@@ -1,0 +1,3 @@
+/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/RelWithDebInfo/5y4j2b54/x86/CMakeFiles/rebuild_cache.dir
+/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/RelWithDebInfo/5y4j2b54/x86/CMakeFiles/ncnnbodypose.dir
+/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/RelWithDebInfo/5y4j2b54/x86/CMakeFiles/edit_cache.dir

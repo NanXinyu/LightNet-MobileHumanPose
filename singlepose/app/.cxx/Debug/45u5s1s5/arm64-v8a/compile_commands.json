@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/Debug/45u5s1s5/arm64-v8a",
+  "command": "/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnbodypose_EXPORTS -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/ncnn-20220216-android-vulkan/arm64-v8a/include/ncnn -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles/ncnnbodypose.dir/nanodetncnn.cpp.o -c /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/nanodetncnn.cpp",
+  "file": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/nanodetncnn.cpp"
+},
+
+{
+  "directory": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/Debug/45u5s1s5/arm64-v8a",
+  "command": "/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnbodypose_EXPORTS -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/ncnn-20220216-android-vulkan/arm64-v8a/include/ncnn -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles/ncnnbodypose.dir/nanodet.cpp.o -c /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/nanodet.cpp",
+  "file": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/nanodet.cpp"
+},
+
+{
+  "directory": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/Debug/45u5s1s5/arm64-v8a",
+  "command": "/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnbodypose_EXPORTS -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/ncnn-20220216-android-vulkan/arm64-v8a/include/ncnn -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles/ncnnbodypose.dir/MobileHumanPose.cpp.o -c /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/MobileHumanPose.cpp",
+  "file": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/MobileHumanPose.cpp"
+},
+
+{
+  "directory": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/.cxx/Debug/45u5s1s5/arm64-v8a",
+  "command": "/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --gcc-toolchain=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/nanxinyu/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dncnnbodypose_EXPORTS -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/ncnn-20220216-android-vulkan/arm64-v8a/include/ncnn -isystem /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles/ncnnbodypose.dir/ndkcamera.cpp.o -c /home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/ndkcamera.cpp",
+  "file": "/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/src/main/jni/ndkcamera.cpp"
+}
+]

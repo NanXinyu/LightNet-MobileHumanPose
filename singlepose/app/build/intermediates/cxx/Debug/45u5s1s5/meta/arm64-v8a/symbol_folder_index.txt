@@ -1,0 +1,1 @@
+/home/nanxinyu/ncnn_Android_MoveNet/singlepose/app/build/intermediates/cxx/Debug/45u5s1s5/obj/arm64-v8a
